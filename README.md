@@ -1,7 +1,9 @@
 <div align= "center">
   <h1> Estudando Reactjs </h1>
-  <a href"https://lp-reactjs.vercel.app">wwww.lpReactjs.com</a>
+  <a href"https://lp-reactjs.vercel.app">www.lpreact.com</a>
 </div>
+  </br>
+
 <div align="center">
 
 ![brincandoReactjs](https://user-images.githubusercontent.com/43537647/219388061-e9fbd8f8-6811-4c73-a930-4025922939bb.png)
